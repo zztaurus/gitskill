@@ -1,0 +1,3 @@
+[CherryPie_Offer_Management_Module_PRD_v20180124.pdf](/uploads/9bb546d204dcec8795c77099b25b9f9b/CherryPie_Offer_Management_Module_PRD_v20180124.pdf)
+
+[CherryPie_Offer_Management_Module.docx](/uploads/269bba8724b7bf1e14a6b6e43e569b28/CherryPie_Offer_Management_Module.docx)
